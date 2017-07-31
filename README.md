@@ -1,2 +1,2 @@
 # spider
-Develop a spider to catch most of network page
+Develop a spider in python to catch most of network page
